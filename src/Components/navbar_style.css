@@ -1,0 +1,23 @@
+#first_btn{
+  /* background-color: #3bdc3b; */
+  background-color: #1fad1f;
+  /* width: 5px; */
+  border: 2.5px solid rgb(0, 255, 221);
+}
+#second_btn{
+  background-color: yellow;
+  border: 2.5px solid rgb(0, 255, 221);
+}
+#third_btn{
+  background-color: #ec3333;
+  border: 2.5px solid rgb(0, 255, 221);
+}
+.bg-#3bdc3b{
+  background-color: #3bdc3b;
+}
+.bg-yellow{
+  background-color: yellow;
+}
+.bg-#ec3333{
+  background-color: #ec3333;
+}
